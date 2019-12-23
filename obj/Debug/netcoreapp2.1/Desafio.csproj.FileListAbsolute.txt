@@ -1,0 +1,11 @@
+C:\Users\Usuário\source\repos\ConsoleApp1\bin\Debug\netcoreapp2.1\Desafio.deps.json
+C:\Users\Usuário\source\repos\ConsoleApp1\bin\Debug\netcoreapp2.1\Desafio.runtimeconfig.json
+C:\Users\Usuário\source\repos\ConsoleApp1\bin\Debug\netcoreapp2.1\Desafio.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\ConsoleApp1\bin\Debug\netcoreapp2.1\Desafio.dll
+C:\Users\Usuário\source\repos\ConsoleApp1\bin\Debug\netcoreapp2.1\Desafio.pdb
+C:\Users\Usuário\source\repos\ConsoleApp1\obj\Debug\netcoreapp2.1\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\ConsoleApp1\obj\Debug\netcoreapp2.1\Desafio.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\ConsoleApp1\obj\Debug\netcoreapp2.1\Desafio.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\ConsoleApp1\obj\Debug\netcoreapp2.1\Desafio.dll
+C:\Users\Usuário\source\repos\ConsoleApp1\obj\Debug\netcoreapp2.1\Desafio.pdb
+C:\Users\Usuário\source\repos\ConsoleApp1\obj\Debug\netcoreapp2.1\Desafio.csprojAssemblyReference.cache
